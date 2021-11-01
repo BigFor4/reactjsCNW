@@ -27,7 +27,7 @@ class Information extends Component {
                     <img src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif' alt='anh'/>
                 </div>
                 <div className="thongtin-text">
-                    <h4>{username}</h4>
+                    <h4 style={{marginBottom: '1rem'}}>{username}</h4>
                     <p>Ngày Sinh:{birthDay}</p>
                     <p>Địa Chỉ: {address}</p>
                     <p>{university}</p>
