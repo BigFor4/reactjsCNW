@@ -1,0 +1,37 @@
+.body{
+    background-color: rgb(219, 209, 228);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background: url(../../img/banner.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.cauhoi{
+    text-align: center;
+
+}
+.cardtest{
+    background: url(../../img/content.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    height: 350px;
+    text-align: center;
+    top: 30%;
+    left: 10%;
+    border-radius: 50px;
+}
+.traloi-dong2{
+    padding: 10px;
+}
+.traloi-dong1{
+    padding: 10px;
+}
+.btn-trangchu{
+    margin-top: 50px;
+}
+.btn-trangchu-ques{
+    width: 25%;
+    text-align: center;
+}

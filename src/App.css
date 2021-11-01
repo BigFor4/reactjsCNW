@@ -1,0 +1,77 @@
+
+.mt-15{
+  margin-top: 15px;
+}
+.mt-50{
+  margin-top: 50px;
+}
+.mb-15{
+  margin-bottom: 15px;
+}
+.mb-50{
+  margin-bottom: 50px;
+}
+.btn-pd{
+  padding: 0;
+  font-size: 12px;
+}
+.ml-5{
+  margin-left: 5px;
+}
+.mr-5{
+  margin-right: 5px;
+}
+.taskform-close{
+  display: flex;
+  justify-content: space-between;
+}
+.close:hover{
+  color: red;
+  transition: all 0.5s;
+}
+.mt-25{
+  margin-top: 25px;
+}
+.mt-15{
+  margin-top: 15px;
+}
+.mb-50{
+  margin-bottom: 50px;
+}
+.mb-25{
+  margin-bottom: 25px;
+}
+.btn-pd{
+  padding: 0;
+  font-size: 12px;
+}
+.ml-5{
+  margin-left: 5px;
+}
+
+.mr-5{
+  margin-right: 5px;
+}
+.mr-10{
+  margin-right: 10px;
+}
+.ml-10{
+  margin-left: 10px;
+}
+
+ul.stars li {
+  display: inline-block;
+}
+
+ul.stars li span {
+  font-size: 1em;
+  margin: 0 0.2em;
+}
+
+ul.stars li span:hover {
+  opacity: 0.8;
+}
+.icon-logout{
+  display: flex;
+  justify-content: flex-end;
+}
